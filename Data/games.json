@@ -1,0 +1,20 @@
+[
+  {
+    "title" : "Dark Souls",
+    "stock" : 5,
+    "Developer" : "FromSoftware",
+    "Info"  : "A hard game"
+  },
+  {
+    "title" : "Light Souls",
+    "stock" : 0,
+    "Developer" : "NA",
+    "Info"  : "A nonexistent game"
+  },
+  {
+    "title" : "Super Mario Kart",
+    "stock" : 1,
+    "Developer" : "Nintendo",
+    "Info"  : "An old game"
+  }
+]
